@@ -304,4 +304,11 @@ $(document).on(click, '.js-step', function(e) {
 ```
 
 # References
++ https://www.codeply.com/p/yNgonlFihM
++ https://www.codeply.com/go/xNxN5cMYBr/bootstrap-4-multiple-modal-overlay
 + https://viblo.asia/p/huong-dan-lam-multiple-bootstrap-modals-va-step-modal-bootstrap-don-gian-chi-trong-15-phut-924lJ4MNKPM
++ https://viblo.asia/p/multiple-bootstrap-modals-with-nextprev-buttons-Eb85oEp4Z2G
++ https://docs.google.com/document/d/1rToI2FEOo-Us1WGagO6v77xx9jf-Dlnx1BkHAPSad6c/
++ https://codepen.io/adambui/pen/KmJwdw
++ https://codepen.io/neni9/pen/dJVwqr
++ https://codepen.io/joshalling/pen/XmymMN
